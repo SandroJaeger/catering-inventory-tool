@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/catering-inventory-tool/static/css/main.cd18f022.css",
+    "main.js": "/catering-inventory-tool/static/js/main.04d2c4af.js",
+    "index.html": "/catering-inventory-tool/index.html",
+    "main.cd18f022.css.map": "/catering-inventory-tool/static/css/main.cd18f022.css.map",
+    "main.04d2c4af.js.map": "/catering-inventory-tool/static/js/main.04d2c4af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd18f022.css",
+    "static/js/main.04d2c4af.js"
+  ]
+}
